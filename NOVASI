@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>NovasiOS - Официальный сайт</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <h1>Добро пожаловать на NovasiOS</h1>
+        <a href="#advantages" class="btn">Преимущества</a>
+        <a href="#download" class="btn">Скачать</a>
+    </header>
+    <section id="advantages">
+        <h2>Преимущества</h2>
+        <ul>
+            <li>Интуитивный интерфейс.</li>
+            <li>Поддержка приложений Windows.</li>
+            <li>Браузер Novasi.</li>
+        </ul>
+    </section>
+    <section id="download">
+        <h2>Скачать ISO-образ</h2>
+        <a href="thankyou.html" class="btn">Скачать</a>
+    </section>
+    <footer>
+        <p>&copy; 2024 NovasiOS. Все права защищены.</p>
+    </footer>
+</body>
+</html>
